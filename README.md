@@ -14,7 +14,7 @@ Foi modificado todos os textos contidos na página e a logo foi adicionado em fo
 
 Foi adicionado icone na aba do navegador com o código gerado através da página [https://www.favicon-generator.org/](https://www.favicon-generator.org/)
 
-## # Bibliotecas e tecnologias utilizadas:
+## Bibliotecas e tecnologias utilizadas:
 - JavaScript
 - CSS
 - Json
